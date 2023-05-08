@@ -2,6 +2,6 @@
 
 QUICK START
 
-https://score-calculatorfinzo.netlify.app/)
+https://score-calculatorfinzo.netlify.app/
 
 Happy Coding!
